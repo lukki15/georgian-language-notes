@@ -20,24 +20,55 @@ The verbs below belong to the **M‑system**, for each verb you’ll find:
 
 ##  To Have (inanimate objects) – **ქონა**
 
+>Used with non‑living things (books, money, a house, etc.).
+
+### Present Simple
 | Person  | Singular      | Plural          |
 | ------- | ------------- | --------------- |
 | **1st** | მე **მაქვს**  | ჩვენ **გვაქვს** |
 | **2nd** | შენ **გაქვს** | თქვენ **გაქვთ** |
 | **3rd** | მას **აქვს**  | მათ **აქვთ**    |
 
->Used with non‑living things (books, money, a house, etc.).
+### Past Simple
+| Person  | Singular       | Plural            |
+| ------- | -------------- | ----------------- |
+| **1st** | მე **მქონდა**  | ჩვენ **გვქონდა**  |
+| **2nd** | შენ **გქონდა** | თქვენ **გქონდათ** |
+| **3rd** | მას **ქონდა**  | მათ **ქონდათ**    |
+
+### Future Simple
+| Person  | Singular        | Plural             |
+| ------- | --------------- | ------------------ |
+| **1st** | მე **მექნება**  | ჩვენ **გვექნება**  |
+| **2nd** | შენ **გექნება** | თქვენ **გექნებათ** |
+| **3rd** | მას **ექნება**  | მათ **ექნებათ**    |
 
 ---
 
 ## To Have (animate nouns) – **ყოლა**  
 
+>Applies to people, animals, and anything that can “move” (e.g., a pet, a car).
+
+### Present Simple
 | Person  | Singular      | Plural          |
 | ------- | ------------- | --------------- |
 | **1st** | მე **მყავს**  | ჩვენ **გვყავს** |
 | **2nd** | შენ **გყავს** | თქვენ **გყავთ** |
 | **3rd** | მას **ყავს**  | მათ **ყავთ**    |
->Applies to people, animals, and anything that can “move” (e.g., a pet, a car).
+
+### Past Simple
+| Person  | Singular      | Plural          |
+| ------- | ------------- | --------------- |
+| **1st** | მე **მყავდა**  | ჩვენ **გვყავდა** |
+| **2nd** | შენ **გყავდა** | თქვენ **გყავდათ** |
+| **3rd** | მას **ყავდა**  | მათ **ყავდათ**    |
+
+### Future Simple
+| Person  | Singular         | Plural              |
+| ------- | ---------------- | ------------------- |
+| **1st** | მე **მეყოლება**  | ჩვენ **გვეყოლება**  |
+| **2nd** | შენ **გეყოლება** | თქვენ **გეყოლებათ** |
+| **3rd** | მას **ეყოლება**  | მათ **ეყოლებათ**    |
 
 ---
 

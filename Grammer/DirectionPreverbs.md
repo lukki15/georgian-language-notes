@@ -77,7 +77,7 @@ According to their structure Direction Preverbs fall into simple and complex cat
 | Imperative | წადი!/Go!                                                                               |
 |            | წადი სკოლაში!                                                                           |
 
-## Preverb Cheat Summary
+### Preverb Cheat Summary
 
 - **და**ვდივარ (all directions)
 - **მი**ვდივარ (opposite the speaker)
@@ -87,3 +87,26 @@ According to their structure Direction Preverbs fall into simple and complex cat
 - **შე**ვდივარ (in) 
 - **გა**ვდივარ (out)
 - **გადა**ვდივარ (over or across)
+
+## Complex Directions Preverbs
+
+Complex Direction Preverbs are formed from Simple ones by adding მო, 
+and they mainly show the direction (of the action the doer does) towards the speaker.
+
+| Simple | Complex |                                       |
+|--------|---------|---------------------------------------|
+| მი     | -       | to the direction opposite the speaker |
+| მო     | -       | towards the speaker                   |
+| ა      | ამო     | up                                    |
+| ჩა     | ჩამო    | down                                  |
+| შე     | შემო    | in / inside                           |
+| გა     | გამო    | out / outside                         |
+| გადა   | გადამო  | over (towards the speaker)            |
+| წა     | წამო    | together with the speaker             |
+| და     | -       | to all directions (general)           |
+
+| Complex Preverbs Showing Directions                                                                                                                               |                                                                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ამოვდივარ/I am coming up (your way)<br> (კიბეზე, სართულზე, მარშუტკაში)<br><br> ამოდი!/Come up (my way)!<br>  (კიბეზე, სართულზე, მარშუტკაში)                       | ჩამოვდივარ/I am coming down (your way)<br> (კიბეზე, სართულზე, მარშუტკიდან) <br><br> ჩამოდი!/Come down (my way)! (კიბეზე, სართულზე, მარშუტკიდან)                         |
+| შემოვდივარ/I am coming in<br> (ოთახში, გაკვეთილზე)<br><br>  შემოდი!/Come in!<br> (სახლში, სკოლაში)                                                                                | გამოვდივარ/I am coming out of<br> (სახლიდან, მაღაზიიდან)<br><br>  გამოდი!/Come out!<br> (ოთახიდან, სახლიდან)                                                                        |
+| Note! The preverb წამო has only the Imperative in Present Simple Tense, but no conjugation.<br><br> წამოდი!/Come (with me)!<br> (სახლში, მაღაზიაში, მეგობართან, მეზობელთან) | გადმოვდივარ/I am coming over (your way)<br> (ქუჩაზე, ხიდზე)<br><br>  გადმოდი/Come over (my way)!<br> (ქუჩაზე, ხიდზე)<br><br>  Note! ა is dropped when adding მო to form complex preverbs. |

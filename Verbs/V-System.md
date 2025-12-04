@@ -244,3 +244,15 @@ The choice of suffix for the **third‑person plural** (they) follows a very sim
 
 ---
 
+## To Know – **ცოდნა**
+
+| Person  | Singular     | Plural         |
+| ------- | ------------ | -------------- |
+| **1st** | მე **ვიცი**  | ჩვენ **ვიცით** |
+| **2nd** | შენ **იცი**  | თქვენ **იცით** |
+| **3rd** | მან **იცის** | მათ **იციან**  |
+
+*Note!* The Ergative Case is not used in the Present Tense. 
+The exception is the verb **to know (ცოდნა)**, which has the subject in the Ergative Case in the Present Tense.
+
+---

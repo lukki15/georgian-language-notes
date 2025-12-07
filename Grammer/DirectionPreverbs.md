@@ -79,6 +79,7 @@ According to their structure Direction Preverbs fall into simple and complex cat
 
 ### Preverb Cheat Summary
 
+#### Present Simple Tense
 - **და**ვდივარ (all directions)
 - **მი**ვდივარ (opposite the speaker)
 - **მო**ვდივარ (towards the speaker)
@@ -87,6 +88,17 @@ According to their structure Direction Preverbs fall into simple and complex cat
 - **შე**ვდივარ (in) 
 - **გა**ვდივარ (out)
 - **გადა**ვდივარ (over or across)
+
+#### Past Simple Tense
+- **წა**ვედი (I went)
+- **და**ვედი
+- **მი**ვედი (I arrived)
+- **მო**ვედი
+- **ა**ვედი
+- **ჩა**ვედი
+- **შე**ვედი
+- **გა**ვედი
+- **გადა**ვედი
 
 ## Complex Directions Preverbs
 

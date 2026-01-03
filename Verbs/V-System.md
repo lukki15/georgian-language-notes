@@ -9,28 +9,30 @@ tags:
 
 The verbs listed here belong to the **V‑system**, each entry shows:
 
-* the English gloss
-* the infinitive
-* a full personal‑pronoun table (1st sg, 1st pl, 2nd sg, 2nd pl, 3rd sg, 3rd pl).
+- the English gloss
+- the infinitive
+- a full personal‑pronoun table (1st sg, 1st pl, 2nd sg, 2nd pl, 3rd sg, 3rd pl).
 
-> **Tip:** When you add a preverb (e.g., *გა‑*, *მო‑*), the personal endings stay unchanged – only the preverb modifies aspect or direction.
+> **Tip:** When you add a preverb (e.g., _გა‑_, _მო‑_), the personal endings stay unchanged – only the preverb modifies aspect or direction.
 
 ## When to use **‑ენ** vs. **‑ან** in the 3rd‑person plural
 
 Georgian verbs end in either a **vowel** or a **consonant** before the personal suffix is attached.  
 The choice of suffix for the **third‑person plural** (they) follows a very simple phonological rule:
 
-| Final letter of the verb stem | Suffix to add | Example (root)                             | Result (they)              |
-|------------------------------|----------------|--------------------------------------------|----------------------------|
-| **Consonant** (ბ, გ, დ, …)   | **‑ენ**        | *წერ* “write” → *წერ‑* + **‑ენ**           | **წერენ** "they write"     |
-| **Vowel** (ა, ე, ი, ო, უ)    | **‑ან**        | *ასწავლი* “teach” → *ასწავლი‑* + **‑ან**   | **ასწავლიან** "they teach" |
+| Final letter of the verb stem | Suffix to add | Example (root)                           | Result (they)              |
+| ----------------------------- | ------------- | ---------------------------------------- | -------------------------- |
+| **Consonant** (ბ, გ, დ, …)    | **‑ენ**       | _წერ_ “write” → _წერ‑_ + **‑ენ**         | **წერენ** "they write"     |
+| **Vowel** (ა, ე, ი, ო, უ)     | **‑ან**       | _ასწავლი_ “teach” → _ასწავლი‑_ + **‑ან** | **ასწავლიან** "they teach" |
 
 ---
+
 # Verbs
 
 ## To Be – **ყოფნა**
 
 ### Present Simple
+
 | Person  | Singular    | Plural          |
 | ------- | ----------- | --------------- |
 | **1st** | მე **ვარ**  | ჩვენ **ვართ**   |
@@ -38,6 +40,7 @@ The choice of suffix for the **third‑person plural** (they) follows a very sim
 | **3rd** | ის **არის** | ისინი **არიან** |
 
 ### Past Simple
+
 | Person  | Singular      | Plural           |
 | ------- | ------------- | ---------------- |
 | **1st** | მე **ვიყავი** | ჩვენ **ვიყავით** |
@@ -45,18 +48,19 @@ The choice of suffix for the **third‑person plural** (they) follows a very sim
 | **3rd** | ის **იყო**    | ისინი **იყვნენ** |
 
 ### Future Simple
+
 | Person  | Singular       | Plural             |
 | ------- | -------------- | ------------------ |
 | **1st** | მე **ვიქნები** | ჩვენ **ვიქნებით**  |
 | **2nd** | შენ **იქნები** | თქვენ **იქნებით**  |
 | **3rd** | ის **იქნება**  | ისინი **იქნებიან** |
 
-
 ---
 
 ## To Go – **წასვლა**
 
 ### Present Simple
+
 | Person  | Singular        | Plural             |
 | ------- | --------------- | ------------------ |
 | **1st** | მე **მივდივარ** | ჩვენ **მივდივართ** |
@@ -64,6 +68,7 @@ The choice of suffix for the **third‑person plural** (they) follows a very sim
 | **3rd** | ის **მიდის**    | ისინი **მიდიან**   |
 
 ### Past Simple
+
 | Person  | Singular        | Plural             |
 | ------- | --------------- | ------------------ |
 | **1st** | მე **წავედი**   | ჩვენ **წავედით**   |
@@ -82,7 +87,9 @@ The choice of suffix for the **third‑person plural** (they) follows a very sim
 
 ---
 
-## To Learn / Study – **სწავლა** *(learning)*  
+## To Learn / Study – **სწავლა**
+
+### Present Simple
 
 | Person  | Singular        | Plural              |
 | ------- | --------------- | ------------------- |
@@ -90,15 +97,53 @@ The choice of suffix for the **third‑person plural** (they) follows a very sim
 | **2nd** | შენ **სწავლობ** | თქვენ **სწავლობთ**  |
 | **3rd** | ის **სწავლობს** | ისინი **სწავლობენ** |
 
+### Past Simple
+
+| Person  | Singular            | Plural                 |
+| ------- | ------------------- | ---------------------- |
+| **1st** | მე **ვი**სწავლ**ე** | ჩვენ **ვი**სწავლ**ეთ** |
+| **2nd** | შენ **ი**სწავლ**ე** | თქვენ **ი**სწავლ**ეთ** |
+| **3rd** | ის **ი**სწავლ**ა**  | ისინი **ი**სწავლ**ეს** |
+
 ---
 
 ## To Live – **ცხოვრება**
+
+### Present Simple
 
 | Person  | Singular        | Plural              |
 | ------- | --------------- | ------------------- |
 | **1st** | მე **ვცხოვრობ** | ჩვენ **ვცხოვრობთ**  |
 | **2nd** | შენ **ცხოვრობ** | თქვენ **ცხოვრობთ**  |
 | **3rd** | ის **ცხოვრობს** | ისინი **ცხოვრობენ** |
+
+### Past Simple
+
+| Person  | Singular            | Plural                 |
+| ------- | ------------------- | ---------------------- |
+| **1st** | მე **ვი**ცხოვრ**ე** | ჩვენ **ვი**ცხოვრ**ეთ** |
+| **2nd** | შენ **ი**ცხოვრ**ე** | თქვენ **ი**ცხოვრ**ეთ** |
+| **3rd** | ის **ი**ცხოვრ**ა**  | ისინი **ი**ცხოვრ**ეს** |
+
+---
+
+## To play – **თამაში**
+
+### Present Simple
+
+| Person  | Singular        | Plural              |
+| ------- | --------------- | ------------------- |
+| **1st** | მე **ვთამაშობ** | ჩვენ **ვთამაშობთ**  |
+| **2nd** | შენ **თამაშობ** | თქვენ **თამაშობთ**  |
+| **3rd** | ის **თამაშობს** | ისინი **თამაშობენ** |
+
+### Past Simple
+
+| Person  | Singular            | Plural                 |
+| ------- | ------------------- | ---------------------- |
+| **1st** | მე **ვი**თამაშ**ე** | ჩვენ **ვი**თამაშ**ეთ** |
+| **2nd** | შენ **ი**თამაშ**ე** | თქვენ **ი**თამაშ**ეთ** |
+| **3rd** | ის **ი**თამაშ**ა**  | ისინი **ი**თამაშ**ეს** |
 
 ---
 
@@ -112,7 +157,9 @@ The choice of suffix for the **third‑person plural** (they) follows a very sim
 
 ---
 
-## To Read – **წაკითხვა**
+## To Read – **(წა)კითხვა**
+
+### Present Simple
 
 | Person  | Singular         | Plural               |
 | ------- | ---------------- | -------------------- |
@@ -120,9 +167,17 @@ The choice of suffix for the **third‑person plural** (they) follows a very sim
 | **2nd** | შენ **კითხულობ** | თქვენ **კითხულობთ**  |
 | **3rd** | ის **კითხულობს** | ისინი **კითხულობენ** |
 
+### Past Simple
+
+| Person  | Singular             | Plural                  |
+| ------- | -------------------- | ----------------------- |
+| **1st** | მე წა**ვი**კითხ**ე** | ჩვენ წა**ვი**კითხ**ეთ** |
+| **2nd** | შენ წა**ი**კითხ**ე** | თქვენ წა**ი**კითხ**ეთ** |
+| **3rd** | ის წა**ი**კითხ**ა**  | ისინი წა**ი**კითხ**ეს** |
+
 ---
 
-## To Teach – **სწავლება** *(teaching)*
+## To Teach – **სწავლება**
 
 | Person  | Singular        | Plural              |
 | ------- | --------------- | ------------------- |
@@ -132,13 +187,23 @@ The choice of suffix for the **third‑person plural** (they) follows a very sim
 
 ---
 
-## To Work – **სამუშაო** *(to work)*  
+## To Work – **სამუშაო**
+
+### Present Simple
 
 | Person  | Singular       | Plural             |
 | ------- | -------------- | ------------------ |
 | **1st** | მე **ვმუშაობ** | ჩვენ **ვმუშაობთ**  |
 | **2nd** | შენ **მუშაობ** | თქვენ **მუშაობთ**  |
 | **3rd** | ის **მუშაობს** | ისინი **მუშაობენ** |
+
+### Past Simple
+
+| Person  | Singular            | Plural                 |
+| ------- | ------------------- | ---------------------- |
+| **1st** | მე **ვი**მუშა**ვე** | ჩვენ **ვი**მუშა**ვეთ** |
+| **2nd** | შენ **ი**მუშა**ვე** | თქვენ **ი**მუშა**ვეთ** |
+| **3rd** | ის **ი**მუშა**ვა**  | ისინი **ი**მუშა**ვეს** |
 
 ---
 
@@ -154,11 +219,21 @@ The choice of suffix for the **third‑person plural** (they) follows a very sim
 
 ## To Talk – **ლაპარაკი**
 
+### Present Simple
+
 | Person  | Singular          | Plural                |
 | ------- | ----------------- | --------------------- |
 | **1st** | მე **ვლაპარაკობ** | ჩვენ **ვლაპარაკობთ**  |
 | **2nd** | შენ **ლაპარაკობ** | თქვენ **ლაპარაკობთ**  |
 | **3rd** | ის **ლაპარაკობს** | ისინი **ლაპარაკობენ** |
+
+### Past Simple
+
+| Person  | Singular              | Plural                   |
+| ------- | --------------------- | ------------------------ |
+| **1st** | მე **ვი**ლაპარაკ**ე** | ჩვენ **ვი**ლაპარაკ**ეთ** |
+| **2nd** | შენ **ი**ლაპარაკ**ე** | თქვენ **ი**ლაპარაკ**ეთ** |
+| **3rd** | ის **ი**ლაპარაკ**ა**  | ისინი **ი**ლაპარაკ**ეს** |
 
 ---
 
@@ -214,11 +289,41 @@ The choice of suffix for the **third‑person plural** (they) follows a very sim
 
 ## To Buy – **ყიდვა**
 
+### Present Simple
+
 | Person  | Singular        | Plural              |
 | ------- | --------------- | ------------------- |
 | **1st** | მე **ვყიდულობ** | ჩვენ **ვყიდულობთ**  |
 | **2nd** | შენ **ყიდულობ** | თქვენ **ყიდულობთ**  |
 | **3rd** | ის **ყიდულობს** | ისინი **ყიდულობენ** |
+
+### Past Simple
+
+| Person  | Singular          | Plural               |
+| ------- | ----------------- | -------------------- |
+| **1st** | მე **ვი**ყიდ**ე** | ჩვენ **ვი**ყიდ**ეთ** |
+| **2nd** | შენ **ი**ყიდ**ე** | თქვენ **ი**ყიდ**ეთ** |
+| **3rd** | ის **ი**ყიდ**ა**  | ისინი **ი**ყიდ**ეს** |
+
+---
+
+## To have a feast – **ქეიფი**
+
+### Present Simple
+
+| Person  | Singular       | Plural             |
+| ------- | -------------- | ------------------ |
+| **1st** | მე **ვქეიფობ** | ჩვენ **ვქეიფობთ**  |
+| **2nd** | შენ **ქეიფობ** | თქვენ **ქეიფობთ**  |
+| **3rd** | ის **ქეიფობს** | ისინი **ქეიფობენ** |
+
+### Past Simple
+
+| Person  | Singular           | Plural                |
+| ------- | ------------------ | --------------------- |
+| **1st** | მე **ვი**ქეიფ**ე** | ჩვენ **ვი**ქეიფ**ეთ** |
+| **2nd** | შენ **ი**ქეიფ**ე** | თქვენ **ი**ქეიფ**ეთ** |
+| **3rd** | ის **ი**ქეიფ**ა**  | ისინი **ი**ქეიფ**ეს** |
 
 ---
 
@@ -234,11 +339,21 @@ The choice of suffix for the **third‑person plural** (they) follows a very sim
 
 ## To Drink – **დალევა**
 
+### Present Simple
+
 | Person  | Singular     | Plural           |
 | ------- | ------------ | ---------------- |
 | **1st** | მე **ვსვამ** | ჩვენ **ვსვამთ**  |
 | **2nd** | შენ **სვამ** | თქვენ **სვამთ**  |
 | **3rd** | ის **სვამს** | ისინი **სვამენ** |
+
+### Past Simple
+
+| Person  | Singular      | Plural           |
+| ------- | ------------- | ---------------- |
+| **1st** | მე **დავლიე** | ჩვენ **დავლიეთ** |
+| **2nd** | შენ **დალიე** | თქვენ **დალიეთ** |
+| **3rd** | ის **დალია**  | ისინი **დალიეს** |
 
 ---
 
@@ -254,11 +369,21 @@ The choice of suffix for the **third‑person plural** (they) follows a very sim
 
 ## To See – **დანახვა**
 
-| Person  | Singular         | Plural               |
-| ------- | ---------------- | -------------------- |
+### Present Simple
+
+| Person  | Singular      | Plural            |
+| ------- | ------------- | ----------------- |
 | **1st** | მე **ვხედავ** | ჩვენ **ვხედავთ**  |
 | **2nd** | შენ **ხედავ** | თქვენ **ხედავთ**  |
-| **3rd** | ის **ხედავა**  | ისინი **ხედავენ** |
+| **3rd** | ის **ხედავა** | ისინი **ხედავენ** |
+
+### Past Simple
+
+| Person  | Singular     | Plural          |
+| ------- | ------------ | --------------- |
+| **1st** | მე **ვნახე** | ჩვენ **ვნახეთ** |
+| **2nd** | შენ **ნახე** | თქვენ **ნახეთ** |
+| **3rd** | ის **ნახა**  | ისინი **ნახეს** |
 
 ---
 
@@ -270,7 +395,7 @@ The choice of suffix for the **third‑person plural** (they) follows a very sim
 | **2nd** | შენ **იცი**  | თქვენ **იცით** |
 | **3rd** | მან **იცის** | მათ **იციან**  |
 
-*Note!* The Ergative Case is not used in the Present Tense. 
+_Note!_ The Ergative Case is not used in the Present Tense.
 The exception is the verb **to know (ცოდნა)**, which has the subject in the Ergative Case in the Present Tense.
 
 ---

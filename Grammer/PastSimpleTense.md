@@ -37,3 +37,34 @@ end.
 _Note!\*\*_ In the verb **ვიმუშავე**, **–ვ** appears before **–ე**.
 _Note!\*\*\*_ წა–ვი–კითხ–ე the verb ვკითხულობ uses the preverb to form the past
 simple tense (წა)კითხვ
+
+## V-System Verbs Ending in –ებ
+
+To form the Past Simple Tense of the verbs that end in **–ებ** in the Present Simple,
+1st person singular, and have a preverb (**და–**, **გა–**, **მო–**, etc.) in the infinitive,
+take the first person singular form of the verb, for example:
+
+| Infinitive          | Present Simple, 1st person singular |
+| ------------------- | ----------------------------------- |
+| To rest – დასვენება | ვისვენებ                            |
+
+### With the Preverbs: და–, გა–, მო–
+
+| Person  | Singular:                    | Plural:                      |
+| ------- | ---------------------------- | ---------------------------- |
+| **1st** | **Preverb + ვ**\_\_\_\_**ე** | **Preverb +ი**\_\_\_\_**ეთ** |
+| **2nd** | **Preverb +**\_\_\_\_**ე**   | **Preverb +**\_\_\_\_**ეთ**  |
+| **3rd** | **Preverb +**\_\_\_\_**ა**   | **Preverb +**\_\_\_\_**ეს**  |
+
+_Note!_ With the verbs ending in **–ებ**, the subject is always in the Ergative Case and the object is always in the Nominative Case.
+
+_Note!_ An exception is the verb to watch (ყურება)
+
+### Examples
+
+მან გააკეთა ლობიანი <br>
+მან (Ergative); ლობიანი (Nominative)
+
+მან უყურა ტელევიზორს <br>
+მან (Ergative); ტელევიზორს (Dative) <br>
+_Note!_ An exception is the verb to watch (ყურება)
